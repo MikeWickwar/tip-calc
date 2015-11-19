@@ -1,3 +1,25 @@
 body{
+  box-sizing: border-box;
+  padding-top:20%;
   background-color: red;
+  /*background-image: url(https://media.giphy.com/media/5fBH6zoAQg9dHK2ttsc/giphy.gif);*/
+}
+
+*{
+  font-family: "Comic Sans MS";
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  display: block;
+}
+ h1{
+   padding-bottom: 20px;
+ }
+
+ h2{
+   padding: 20px;
+   
+ }
+#submit{
+  margin-top: 20px;
 }
